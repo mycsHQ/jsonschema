@@ -1,3 +1,5 @@
+This version have difference with [original](https://github.com/tdegrunt/jsonschema) because of this [issue](https://github.com/tdegrunt/jsonschema/issues/187)
+
 [![Build Status](https://secure.travis-ci.org/tdegrunt/jsonschema.svg)](http://travis-ci.org/tdegrunt/jsonschema)
 
 # jsonschema
